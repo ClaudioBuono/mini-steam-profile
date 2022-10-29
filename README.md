@@ -1,12 +1,15 @@
 <h1>Mini Steam profile React component</h2>
-Preview
-<img src="https://media.discordapp.net/attachments/1035917451533221953/1035917510962323506/PixCut-removebg_thumbnail.png" width="600">
+Preview<br>
+<p align="center">
+<img src="https://media.discordapp.net/attachments/1035917451533221953/1035954953698676756/Profile.png" width="500">
+</p>
+<br>
 This React component renders a Steam profile by the SteamID and APIkey given through a .env file, making API calls through Node.js server.<br>
 The API calls are made calling Steams'API and web scraping the background from the given Steam Profile using cheerio library.
 <h3>What does it show</h3>
 <li>Profile picture</li>
 <li>Profile background</li>
-<li>Username</li>
+<li>Username (with Steam Profile link)</li>
 <li>Level</li>
 <li>Games Owned (including free-to-plays)</li>
 <li>Recently played games and hours played</li>
