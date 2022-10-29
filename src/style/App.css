@@ -28,6 +28,26 @@
   color: #61dafb;
 }
 
+body{
+  background-color: #282c34;
+}
+.steamProfileContainer
+{
+  margin: 0 auto;
+  width: 30%;
+  margin-top: 10%;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .steamProfileContainer
+{
+  margin: 0 auto;
+  width: 100%;
+}
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
