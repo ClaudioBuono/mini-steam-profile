@@ -1,12 +1,12 @@
 <h1>Mini Steam profile React component</h2>
 <h3>Preview</h3><br>
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1035917451533221953/1035954953698676756/Profile.png" width="500">
+![Alt text](screenshots/w_500/Profile.png)
 <br>
 </p>
 Showing hours played for recently played games<br><br>
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1035917451533221953/1035958962438283355/Back.png" width="500">
+![Alt text](screenshots/w_500/Back)
 </p>
 <br>
 This React component renders a Steam profile by the SteamID and APIkey given through a .env file, making API calls through Node.js server.<br>
